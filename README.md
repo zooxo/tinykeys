@@ -1,6 +1,6 @@
 # TinyKeys
 ## A Free MPC Expansion Pack
-# ##Tiny but Versatile Multisampled Music Instruments (Keygroups)
+### Tiny but Versatile Multisampled Music Instruments (Keygroups)
 
 -----
 
