@@ -4,9 +4,8 @@
 -----
 
 ## How to install?
-Copy the complete TinyKeys folder to your MPC (to the Expansions folder).
-
-Load the desired instrument to an MPC (keygroup) track.
+* Copy the complete TinyKeys folder to your MPC (to the Expansions folder).
+* Load the desired instrument to an MPC (keygroup) track.
 
 ## Which instruments?
 * Accordion
